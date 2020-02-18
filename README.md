@@ -13,6 +13,8 @@ Add `[x]` (checkbox, checked) once an article has been read or tool has been tes
 * [ ] [Hunting for Bad Apples — Part 2](https://posts.specterops.io/hunting-for-bad-apples-part-2-6f2d01b1f7d3), getting to know basics+
 * [ ] [Venator - Proactive Malware Detection for MacOS](https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56), [tool](https://github.com/richiercyrus/Venator), find what the malware do
 * [ ] [How to reverse malware on MacOS - Part 1](https://www.sentinelone.com/blog/how-to-reverse-macos-malware-part-one/), environment setup
+* [ ] [MacOS Reverse Engineering Cookbook](http://185.62.190.110/collaborative/knowledge/index.php/Reverse_Engineering/Mac_OS_X)
+* [ ] [OSX Reverse Engineering 101](https://github.com/michalmalik/osx-re-101)
 
 #### Toolset
 * [ ] [richiercyrus/Venator](https://github.com/richiercyrus/Venator)
